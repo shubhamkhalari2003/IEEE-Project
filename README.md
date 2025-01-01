@@ -14,11 +14,8 @@ Keywords: Drowsiness Detection, Low-Power Systems,
 Facial Landmark Tracking, Real-Time Safety, Neural
 Network Optimization.
 
+![image](https://github.com/user-attachments/assets/c945e9b4-f91d-4fe7-8e7f-c307530c04f2)
 
-Shubham Kumar
-Department of Computing
-Technologies, School of Computing
-SRM Institute of Science and
-Technology, Kattankulathur
-Chengalpattu, India, 603203
-ss5552@srmist.edu.in
+
+![image](https://github.com/user-attachments/assets/5f8ba4c3-124a-46b6-9bc0-f5bce8be098a)
+
